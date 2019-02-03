@@ -1,0 +1,79 @@
+body{
+   background-color: #F3FADE;
+}
+
+.App {
+  text-align: center;
+}
+
+/*all side bar stuff*/
+.nav {
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: #111; 
+  overflow-x: hidden;
+  padding-top: 30px; 
+  transition: 0.5s; 
+}
+
+
+.navComp, .active {
+  padding: 8px 20px 8px 8px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.active{
+  color: #f1f1f1;
+}
+
+.nav li:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+/*all the real info*/
+
+.rightSide{
+  margin-left: 30%;
+}
+
+.buttonContainer{
+  flex-grow: 2;
+  width:800px;
+  margin-top:20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.largeButtons{
+  text-align: center;
+  margin:20px;
+  background-color: #A8C97F;
+  /*box-shadow: 5px;*/
+  border-radius: 2%;
+  width:200px;
+  height:100px;
+}
+
+.activeTask{
+  background-color: #81B5B3;
+}
+
+.hidden{
+  display:none;
+}
+.nothidden{
+  display: block;
+}
