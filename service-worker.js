@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mangohacks2019/precache-manifest.7e29b28ff4e5aa828fa4ebe65b3b5894.js"
+  "/mangohacks2019/precache-manifest.ca39e1d459520b864789b2ccad88c3cc.js"
 );
 
 workbox.clientsClaim();

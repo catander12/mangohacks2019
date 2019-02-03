@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cdd421b02308afaa3313",
-    "url": "/mangohacks2019/static/css/main.9f7254d7.chunk.css"
+    "revision": "df827661eddec376de0a",
+    "url": "/mangohacks2019/static/css/main.d888e7ec.chunk.css"
   },
   {
-    "revision": "cdd421b02308afaa3313",
-    "url": "/mangohacks2019/static/js/main.cdd421b0.chunk.js"
+    "revision": "df827661eddec376de0a",
+    "url": "/mangohacks2019/static/js/main.df827661.chunk.js"
   },
   {
     "revision": "407364ab63ba72d77a7b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/mangohacks2019/static/js/runtime~main.58891d5c.js"
   },
   {
-    "revision": "86c89e734bb85370fa7aaa99d8f10de3",
+    "revision": "5039a75fad55a78e12c0b0e5c8acedc8",
     "url": "/mangohacks2019/index.html"
   }
 ];
